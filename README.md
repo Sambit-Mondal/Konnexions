@@ -7,7 +7,7 @@ Sentiment Surge is a machine learning model that predicts stock price movements 
 ## Features
 
 - **Generalized Architecture**: Works with any company's stock data, not just specific stocks
-- **Data Collection**: Collects stock data from financial APIs (Yahoo Finance, Alpha Vantage)
+- **Data Collection**: Collects stock data from financial APIs (Alpha Vantage)
 - **Sentiment Analysis**: Classifies financial news into positive, negative, or neutral categories
 - **Correlation Analysis**: Measures relationship between sentiment and stock movements using PCC
 - **Prediction Model**: Uses sentiment data and technical indicators to predict stock directions
@@ -86,8 +86,7 @@ sentiment_surge/
 ### 1. Data Collection
 
 The system collects historical stock data and financial news from multiple sources:
-- Stock price data from Yahoo Finance or Alpha Vantage API
-- Financial news from Twitter and other financial news APIs
+- Stock price data from Alpha Vantage API
 - Technical indicators calculated from price data
 
 ### 2. Sentiment Analysis
@@ -147,6 +146,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Yahoo Finance and Alpha Vantage for financial data APIs
-- Twitter API for social media sentiment data
+- Alpha Vantage for financial data APIs
 - The scikit-learn team for machine learning tools
