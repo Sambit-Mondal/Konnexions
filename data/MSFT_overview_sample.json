@@ -1,0 +1,16 @@
+{
+  "Symbol": "MSFT",
+  "AssetType": "Common Stock",
+  "Name": "MSFT Inc.",
+  "Description": "Sample description for MSFT.",
+  "Exchange": "NASDAQ",
+  "Currency": "USD",
+  "Country": "USA",
+  "Sector": "Technology",
+  "Industry": "Technology",
+  "PERatio": "25.5",
+  "MarketCapitalization": "1000000000",
+  "DividendYield": "1.5",
+  "52WeekHigh": "360.0",
+  "52WeekLow": "240.0"
+}

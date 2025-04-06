@@ -1,0 +1,16 @@
+{
+  "Symbol": "AAPL",
+  "AssetType": "Common Stock",
+  "Name": "AAPL Inc.",
+  "Description": "Sample description for AAPL.",
+  "Exchange": "NASDAQ",
+  "Currency": "USD",
+  "Country": "USA",
+  "Sector": "Technology",
+  "Industry": "Technology",
+  "PERatio": "25.5",
+  "MarketCapitalization": "1000000000",
+  "DividendYield": "1.5",
+  "52WeekHigh": "180.0",
+  "52WeekLow": "120.0"
+}

@@ -1,0 +1,16 @@
+{
+  "Symbol": "GOOG",
+  "AssetType": "Common Stock",
+  "Name": "GOOG Inc.",
+  "Description": "Sample description for GOOG.",
+  "Exchange": "NASDAQ",
+  "Currency": "USD",
+  "Country": "USA",
+  "Sector": "Technology",
+  "Industry": "Technology",
+  "PERatio": "25.5",
+  "MarketCapitalization": "1000000000",
+  "DividendYield": "1.5",
+  "52WeekHigh": "168.0",
+  "52WeekLow": "112.0"
+}

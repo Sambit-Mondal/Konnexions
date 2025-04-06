@@ -1,0 +1,16 @@
+{
+  "Symbol": "TSLA",
+  "AssetType": "Common Stock",
+  "Name": "TSLA Inc.",
+  "Description": "Sample description for TSLA.",
+  "Exchange": "NASDAQ",
+  "Currency": "USD",
+  "Country": "USA",
+  "Sector": "Technology",
+  "Industry": "Technology",
+  "PERatio": "25.5",
+  "MarketCapitalization": "1000000000",
+  "DividendYield": "1.5",
+  "52WeekHigh": "240.0",
+  "52WeekLow": "160.0"
+}

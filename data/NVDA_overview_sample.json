@@ -1,0 +1,16 @@
+{
+  "Symbol": "NVDA",
+  "AssetType": "Common Stock",
+  "Name": "NVDA Inc.",
+  "Description": "Sample description for NVDA.",
+  "Exchange": "NASDAQ",
+  "Currency": "USD",
+  "Country": "USA",
+  "Sector": "Technology",
+  "Industry": "Technology",
+  "PERatio": "25.5",
+  "MarketCapitalization": "1000000000",
+  "DividendYield": "1.5",
+  "52WeekHigh": "960.0",
+  "52WeekLow": "640.0"
+}
